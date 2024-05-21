@@ -1,0 +1,12 @@
+/* Estilos para dispositivos móviles */
+@media only screen and (max-width: 600px) {
+    /* Estilos para elementos específicos */
+    div {
+        font-size: 18px;
+    }
+    p {
+        font-size: 14px;
+    }
+}
+
+
